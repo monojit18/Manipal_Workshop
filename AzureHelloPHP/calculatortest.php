@@ -16,9 +16,6 @@ class CalculatorTests extends PHPUnit\Framework\TestCase
         $this->calculator = NULL;
     }
  
-     /**
-     * @covers BankAccount::getBalance
-     */
     public function testAdd()
     {
         
